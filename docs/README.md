@@ -7,10 +7,20 @@
 ![image alt text](https://raw.githubusercontent.com/bdrc-reader/sakya-college/master/docs/img/01.jpg)
 
 <br>
-<br>
 
 #  ས་སྐྱ་མཐོ་སློབ་ཀྱི་དཔེ་ཀློག་སྒེའུ་ཁུང་ངོ་སྤྲོད།
+ 
+ ངོ་སྤྲོད་འབྲི་དགོས།
 
+ <br>
+
+### ༡ ས་སྐྱ་མཐོ་སློབ་ཀྱི་དྲ་ཚིགས་ལ་གཟིགས། [དྲ་ཚིགས།](https://bdrc-reader.github.io/sakya-college/)
+
+### ༢ དྲ་ཚིགས་འདིའི་ནང་རྩོམ་སྒྲིག་བྱེད་སྟངས། [སློབ་ཚན།](https://github.com/bdrc-reader/sakya-college#%E0%BD%A2%E0%BE%A9%E0%BD%BC%E0%BD%98%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%96%E0%BE%B1%E0%BD%BA%E0%BD%91%E0%BD%A6%E0%BE%9F%E0%BD%84%E0%BD%A6%E0%BD%80%E0%BE%B1%E0%BD%B2%E0%BD%A6%E0%BE%B3%E0%BD%BC%E0%BD%96%E0%BD%9A%E0%BD%93)
+
+### ༣ རྩོམ་སྒྲིག་བྱས་ཟིན་པའི་མ་ཕྱིའི་དཔེ་མཚོན་ལ་གཟིགས། [དཀར་ཆག](https://github.com/bdrc-reader/sakya-college/blob/master/karchak/W1ERI0016.tsv)
+
+<br>
 
 # དཔེ་ཀློག་སྒེའུ་ཁུང་གི་ངོ་སྤྲོད་མདོར་བསྡུས།
 
